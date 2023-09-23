@@ -26,6 +26,10 @@ With the siren blaring in the background, you know the police are closing in, an
 find this answer quickly. You look around and see your three accomplices just standing there,
 idling. “What wasted resources”, you think to yourself. Wait a minute, they can be helping you
 too! ​But how​? ​Update your previous program so it can be executed concurrently.
+
+
+
+
 Problem 2
 Part 1
 After your successful heist, you find yourself in a conundrum: you are now on every wanted
