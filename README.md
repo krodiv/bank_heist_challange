@@ -16,6 +16,9 @@ Here are some examples that might help you:
 ● 222222 meets the criteria (never decreases, double 22).
 ● 223450 does not meet these criteria (decreasing pair of digits 50).
 ● 234789 does not meet these criteria (no double).
+
+
+
 Part 2
 With the siren blaring in the background, you know the police are closing in, and you need to
 find this answer quickly. You look around and see your three accomplices just standing there,
