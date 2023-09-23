@@ -10,6 +10,8 @@ remember some things about the password :
 3. Two adjacent digits are the same (like 22 in 122345).
 4. Going from left to right, the digits never decrease. They only increase or stay the same
 (like 111123 or 135679).
+
+
 How many different passwords​ meet these criteria? ​Write a program to calculate this
 answer.
 Here are some examples that might help you:
@@ -32,6 +34,8 @@ stole from the bank, you get to choose where to go. You managed to get a list of
 major successful police operations in the last 50 years, along with the year of each operation.
 You want to use this list to help you determine a “safe” city to settle down. ​Write a program
 that, given this list and a number N, tells you the city with the Nth most police operations.
+
+
 Here is an example that might help you get started :
 Considering this list :[
 (‘Toronto’, 1994),
@@ -47,6 +51,8 @@ Considering this list :[
 ]
 Your program should return ​‘Vancouver’​ when given that list and the number ​2​.
 Your program should return ​‘Toronto’​ when given that list and the number ​0​.
+
+
 Part 2
 Now, taking into account the year of each operation, how would you determine the “safest” city
 to settle? There is no coding required for this part, simply ​describe your approach and how
